@@ -1,4 +1,4 @@
 # Hello-World
-An other repository
+
 Hello there,
-Just added new repository
+Just added some text for this repo
